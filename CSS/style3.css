@@ -1,0 +1,56 @@
+h1{
+	background:red;
+	padding: 20px 0px;
+	color:white;
+}
+#login_container{
+	width:35%;
+	height:auto;
+	margin:0% 10%;
+	float:left;
+	box-shadow: 0 0 10px #1D771B;
+}
+
+h2{
+	background:#0B671A;
+	padding: 10px;
+	color:white;
+}
+input[type=email]
+{
+	width:80%;
+	height:24px;
+}
+input[type=password]
+{
+	width:80%;
+	height:24px;
+}
+input[type=text]
+{
+	width:80%;
+	height:24px;
+}
+input[type=number]
+{
+	width:80%;
+	height:24px;
+}
+input[type=submit]
+{
+	width:80%;
+	height:30px;
+	background: red;
+	  font-size: 20px;
+	  color:white;
+}
+
+#register_container{
+
+	width:35%;
+	height:auto;
+	margin:0% 10% 0% 0%;
+	float:right;
+	box-shadow: 0 0 10px #1D771B;
+
+}
